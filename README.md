@@ -142,3 +142,6 @@ We have published a public Google Earth Engine (GEE) app that serves as an inter
 ![images/result2.png](images/result2.png)
 ![images/result3.png](images/result3.png)
 
+## License
+- **Code**: The source code in this repository is licensed under the **CC0 1.0 Universal (CC0 1.0) Public Domain Dedication**. You can copy, modify, and distribute the work, even for commercial purposes, all without asking permission.
+- **Data**: The LCZ dataset associated with this study is hosted on [Zenodo](https://doi.org/10.5281/zenodo.19393486) and is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
